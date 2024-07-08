@@ -1,0 +1,2 @@
+you can show the menu of food and also the delivery location with the cost,
+if you want to modify the menu or location then download the file and change which your need.
