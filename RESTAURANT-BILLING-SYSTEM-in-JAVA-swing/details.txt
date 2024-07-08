@@ -1,0 +1,5 @@
+RESTAURANT-BILLING-SYSTEM-in-JAVA-swing
+........................
+This software calculate all the buill of your restuarent. see the demo picture 
+first of all run the project in NetBeans or other tool, then enjoy, if you have problem given the report of ful in details which are help you knowledge.
+thanks.
