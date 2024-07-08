@@ -1,2 +1,33 @@
-you can show the menu of food and also the delivery location with the cost,
-if you want to modify the menu or location then download the file and change which your need.
+
+Restaurant-Billing-System-in-CPP
+.........
+
+You can show the menu of food and also the delivery location with the cost,
+if you want to modify the menu or location then download the file and change which your need. i think the screen shot help you to understand the goal of project but thenmore you have to problem to understand then check the guidline given below.
+
+...................................
+
+ Run the project .Now in your screen shows option . 
+
+.In the first function input the customer data if you click 1 then its shown that how many customer data you wanted to insert in the record .
+then if you  choose option 2 . Then next step is input which item they eat or order
+now you put the data of custrmer number 1,, like their name , so the name is : Md Ashiqul islam
+then you put their user name which are unique so i'm put : ashiq609
+then you choos those option which is buy of customer so you sold the item 2  the chiken birani 
+and then enter the quantity is 1
+and then put no because of we did not sell anything
+then we input the phn number 
+then input date.
+
+
+ affter that next option is its home delivery Yes or No . if press yes then appear some list of place .so in this software I just create custome map which is shown in the screen.
+
+So in our Gub restaurent have 3 branch which is Dhanmondi, Mogbazar , and last one  Khilgoian And rest of delivary place this is just random map and other pic is just adjacency matric of this graph  
+.If you select the Dhanmondi branch and if consider that deliver address is banglamotor so you can find the minimum derlivary charge by using Dijkstra algorithm and per kilometer is calculated as 2tk 
+.so now all the informartion is inserted  
+
+and then we put 2nd cstmr data as usual like before we did.. 
+Thanks.
+
+
+.now if you need any customer data if yyou search by customer username then all the information appear in there.
